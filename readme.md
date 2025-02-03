@@ -45,7 +45,7 @@ Aperte `CTRL + SHIFT + P` e procure `Open Keyboard Shortcuts (JSON)`
 
 Adicione o seguinte:
 
-```json
+```jsonc
 // Place your key bindings in this file to override the defaults
 [
     {

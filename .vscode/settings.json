@@ -1,0 +1,13 @@
+{
+  "git.repositoryScanMaxDepth": 5,
+  "editor.defaultFormatter": "csharpier.csharpier-vscode",
+  "material-icon-theme.activeIconPack": "none",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "explorer.compactFolders": false,
+  "workbench.tree.indent": 20,
+  "godotTools.editorPath.godot4": "./engine/launcher",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

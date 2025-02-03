@@ -9,5 +9,5 @@
   "godotTools.editorPath.godot4": "./engine/launcher",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
 }
